@@ -60,6 +60,8 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
 3. Download & Install Chrome Extension: Custom Fields for Shopify [https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln)
 4. Adding a new meta field to the shop. Add the meta field as shown in the image below
 
+
+
 **Video Meta Field**
 
 > * namespace: c\_f  
@@ -93,7 +95,9 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
 > * key: buy\_with\_2
 > * value: Add your product handle \#2
 
-5.Use Custom Field to import data to the product
+
+
+5. Use Custom Field to import data to the product
 
 chenhinh
 
