@@ -40,13 +40,13 @@ Please refer to the installation manual at [https://help.shopify.com/manual/apps
 
 Hugeshop support 4 Shopify Apps below:
 
-+ Product Reviews: Product Review App made by Shopify. [Get App - Product Reviews](https://apps.shopify.com/product-reviews)
+* Product Reviews: Product Review App made by Shopify. [Get App - Product Reviews](https://apps.shopify.com/product-reviews)
 
-+ Free Shipping Bar App [Get App - Free Shipping Bar](https://apps.shopify.com/free-shipping-bar)
+* Free Shipping Bar App [Get App - Free Shipping Bar](https://apps.shopify.com/free-shipping-bar)
 
-+ HelpCenter - Build an Attractive FAQs Page [Get App - FAQs Page](https://apps.shopify.com/helpcenter)
+* HelpCenter - Build an Attractive FAQs Page [Get App - FAQs Page](https://apps.shopify.com/helpcenter)
 
-+ Instagram Shop by Snapppt [Get App - Instagram shop by Snapppt](https://apps.shopify.com/254e867e771ed335c210d8d84830371a)
+* Instagram Shop by Snapppt [Get App - Instagram shop by Snapppt](https://apps.shopify.com/254e867e771ed335c210d8d84830371a)
 
 * **Install Shopify MetaFields & Custom Fields - Beta**
 
@@ -91,7 +91,9 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
 > * value: Add your product handle \#1!
 > * namespace: c\_f
 > * key: buy\_with\_2
-> * value: Add your product handle \#2Use Custom Field to import data to the product
+> * value: Add your product handle \#2
+
+5. Use Custom Field to import data to the product
 
 chenhinh
 
