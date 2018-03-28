@@ -20,7 +20,8 @@ If you're setting up a Shopify store for the first time, we recommend taking a g
 
 * [ ] If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like hugeshop.v1.0.0.zip.
 
-* [ ] Please extract the zip fileyou downloaded from ThemeForest, then go to "upload" folder and upload any zip file there. 
+* [ ] Please extract the zip fileyou downloaded from ThemeForest, then go to "upload" folder and upload any zip file there.
+
 * [ ] Go to your Shopify admin dashboard and navigate to Online Store&gt;Themes. 
 * [ ] Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.
 * [ ] Your new theme will show up below your current theme. 
@@ -84,8 +85,9 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
 >
 > * namespace: c\_f
 >
-> * key: buy\_with\_2  
-> * value: Add your product handle \#25
+> * key: buy\_with\_2
+>
+> * value: Add your product handle \#2!
 
 5. User Custom Field to import data to the product
 
