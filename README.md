@@ -97,3 +97,4 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
 
 chenhinh
 
+6. Next..
