@@ -58,43 +58,30 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
 1. Currently, Custom Field Extensions only support Chrome browser so to use you must install this browser. Download and install here [https://www.google.com/intl/en/chrome/browser/desktop/index.html](https://www.google.com/intl/en/chrome/browser/desktop/index.html)
 2. Install Chrome Extension: ShopifyFD Dashboard Tool. Download and install it at:  [https://chrome.google.com/webstore/detail/shopifyfd-dashboard-tool/lffljkleilfpjlmcdnoaghhcbnemelge](https://chrome.google.com/webstore/detail/shopifyfd-dashboard-tool/lffljkleilfpjlmcdnoaghhcbnemelge). Refer to: [http://shopifyfd.com/](http://shopifyfd.com/)
 3. Download & Install Chrome Extension: Custom Fields for Shopify [https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln)
-4. Adding a new meta field to the shop. Add the meta field as shown in the image below
-
+4. Adding a new meta field to the shop. Add the meta field as shown in the image below.
 **Video Meta Field**
-
 > * namespace: c\_f  
 > * key: video\_url  
-> * value: Add an amazing video
-
+> * value: Add an amazing video.
 **Size Chart Meta Field**
-
 > * namespace: c\_f  
 > * key: size\_chart  
-> * value: Add your image size chart UR
-
+> * value: Add your image size chart URL
 **Image 360 Meta Field:**
-
 > * namespace: c\_f  
 > * key: image360  
 > * value: Add your image URL
-
 **Short Description Meta Field**
-
 > * namespace: c\_f  
 > * key: description\_excerpt  
 > * value: Add the product short description!
-
 **Group Product Meta Field:**
-
 > * namespace: c\_f
 > * key: buy\_with\_1
 > * value: Add your product handle \#1!
 > * namespace: c\_f
 > * key: buy\_with\_2
 > * value: Add your product handle \#2
-
 5. Use Custom Field to import data to the product
-
 chenhinh
-
 6. Next..
