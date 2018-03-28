@@ -1,5 +1,5 @@
 # Summary
 
 * [Getting Started](README.md)
-* [First Chapter](chapter1.md)
+* [Using Theme Editor ](chapter1.md)
 
