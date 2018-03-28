@@ -18,17 +18,12 @@ If you're setting up a Shopify store for the first time, we recommend taking a g
 
 * **Upload your new theme package**
 
-* [ ] If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like hugeshop.v1.0.0.zip.
-
-* [ ] Please extract the zip fileyou downloaded from ThemeForest, then go to "upload" folder and upload any zip file there.
-
-* [ ] Go to your Shopify admin dashboard and navigate to Online Store&gt;Themes.
-
-* [ ] Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.
-
-* [ ] Your new theme will show up below your current theme.
-
-* [ ] At this point, it is installed, but not published. When you're ready to unveil your new look to the world, click **Publish theme**.
+  * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like hugeshop.v1.0.0.zip.
+  * Please extract the zip fileyou downloaded from ThemeForest, then go to "upload" folder and upload any zip file there.
+  * Go to your Shopify admin dashboard and navigate to Online Store&gt;Themes.
+  * Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.
+  * Your new theme will show up below your current theme.
+  * At this point, it is installed, but not published. When you're ready to unveil your new look to the world, click **Publish theme**.
 
 * **Importing and Exporting Product**
 
@@ -40,15 +35,15 @@ Please refer to the installation manual at [https://help.shopify.com/manual/apps
 
 Hugeshop support 4 Shopify Apps below:
 
-* Product Reviews: Product Review App made by Shopify. [Get App - Product Reviews](https://apps.shopify.com/product-reviews)
+ * Product Reviews: Product Review App made by Shopify. [Get App - Product Reviews](https://apps.shopify.com/product-reviews)
 
-* Free Shipping Bar App [Get App - Free Shipping Bar](https://apps.shopify.com/free-shipping-bar)
+ * Free Shipping Bar App [Get App - Free Shipping Bar](https://apps.shopify.com/free-shipping-bar)
 
-* HelpCenter - Build an Attractive FAQs Page [Get App - FAQs Page](https://apps.shopify.com/helpcenter)
+ * HelpCenter - Build an Attractive FAQs Page [Get App - FAQs Page](https://apps.shopify.com/helpcenter)
 
-* Instagram Shop by Snapppt [Get App - Instagram shop by Snapppt](https://apps.shopify.com/254e867e771ed335c210d8d84830371a)
+ * Instagram Shop by Snapppt [Get App - Instagram shop by Snapppt](https://apps.shopify.com/254e867e771ed335c210d8d84830371a)
 
-* **Install Shopify MetaFields & Custom Fields - Beta**
+ * **Install Shopify MetaFields & Custom Fields - Beta**
 
 Shopify does not support input product custom fields in the dashboard, but there are some add-ons for this that you can use to improve product quality. Example: you can have a short description, video embedded, 3d product embed... for each product.  
 One of the extensions you can refer to is the Custom Field Chrome extension made by Jason at [https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln).
@@ -66,21 +61,25 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
    > > * value: Add an amazing video.
    >
    > **Size Chart Meta Field**
+   >
    > > * namespace: c\_f  
    > > * key: size\_chart  
    > > * value: Add your image size chart URL
    >
    > **Image 360 Meta Field:**
+   >
    > > * namespace: c\_f  
    > > * key: image360  
    > > * value: Add your image URL
    >
    > **Short Description Meta Field**
+   >
    > > * namespace: c\_f  
    > > * key: description\_excerpt  
    > > * value: Add the product short description!
    >
    > **Group Product Meta Field:**
+   >
    > > * namespace: c\_f
    > > * key: buy\_with\_1
    > > * value: Add your product handle \#1!
