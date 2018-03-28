@@ -93,7 +93,7 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
 > * key: buy\_with\_2
 > * value: Add your product handle \#2
 
-5. Use Custom Field to import data to the product
+5.Use Custom Field to import data to the product
 
 chenhinh
 
