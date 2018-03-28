@@ -1,40 +1,40 @@
-When you install automatically with the Arena Installation Apps, most of the Sections and  General Settings as well as the Products and other components we have included, you just need to adjust the parameters to use the same as the sample demo store. Clicking on any of these "sections" blocks will bring up a set of unique configuration settings, or you can click add a section, which will reveal an array of other optional sections that you can add to your homepage. We'll cover each of them in detail - more or less in the order they appear below.
+When you install automatically with the Arena Installation Apps, most of the Sections and  General Settings as well as the Products and other components we have included, you just need to adjust the parameters to use the same as the sample demo store. Clicking on any of these "sections" blocks will bring up a set of unique configuration settings, or you can click add a section, which will reveal an array of other optional sections that you can add to your homepage. We'll cover each of them in detail - more or less in the order they appear below.
 
 ### **Fixed Homepage Block**
 
-Fixed blocks are exactly what you’d guess they are—components that are fixed to certain areas of your site and cannot be moved. In our theme, there are two fixed homepage block:**Header, Bottom & Footer**.
+Fixed blocks are exactly what you’d guess they are—components that are fixed to certain areas of your site and cannot be moved. In our theme, there are two fixed homepage block:**Header, Bottom & Footer**.
 
 #### **Header**
 
 The header is the rectangular area that runs across the top of your store containing your**logo, navigation, currencyconverter**,**account login, and cart, search**. It appears on every page and is intended to be used to promote your company's brand and make it instantly recognizable to your visitors. This is a static block and cannot be repositioned.
 
-##### **Logo: **
+##### **Logo: **
 
-Your store’s logo provides branding for your site and a clickable link to return to the homepage. You can replace your logo with two type: text or image. which setting at**Theme Setting &gt; Header &gt;Site Logo**
+Your store’s logo provides branding for your site and a clickable link to return to the homepage. You can replace your logo with two type: text or image. which setting at **Theme Setting &gt; Header &gt;Site Logo**
 
 ##### **Search:**
 
-A search form is very important to the website to help customers find products. We have built a**smart ajax search**function with the ability to**automatically suggest products**when typing 2 characters in the search form.
+A search form is very important to the website to help customers find products. We have built a**smart ajax search**function with the ability to**automatically suggest products**when typing 2 characters in the search form.
 
-You can change**Search icon**or turn of**Smart Ajax Search** at **Theme Setting &gt; Header &gt;Block Search**
+You can change**Search icon**or turn of**Smart Ajax Search** at **Theme Setting &gt; Header &gt;Block Search**
 
-##### **Multi-Currency Converter**
+##### **Multi-Currency Converter**
 
 This customization lets you provide a drop-down selector that lets customers view your prices in different currencies. Their currency selection will be stored in a cookie and used again on their next visit to your store.
 
-You can set currency converter at**Theme Setting &gt; Top Bar &gt;Multi-Currency**. You can change setting for Money Format; Currency Support and Default Currency & Auto 
+You can set currency converter at**Theme Setting &gt; Top Bar &gt;Multi-Currency**. You can change setting for Money Format; Currency Support and Default Currency & Auto
 
 ##### **Cart**
 
-The cart page shows a summary of all of the products that a customer has added to the cart, a subtotal and a total price for the order, and a Checkout button that directs customers to Shopify's secure checkout pages. When no products have been added, the empty cart page shows a Continue shopping link that takes customers back to view your products. You can edit the settings and add new features to your store's cart page to suit the needs of your business.
+The cart page shows a summary of all of the products that a customer has added to the cart, a subtotal and a total price for the order, and a Checkout button that directs customers to Shopify's secure checkout pages. When no products have been added, the empty cart page shows a Continue shopping link that takes customers back to view your products. You can edit the settings and add new features to your store's cart page to suit the needs of your business.
 
-**Setting Cart**available at **Theme Setting &gt; Cart.**You can change shopping cart icon, add to cart effect on desktop switch between default effect \(Dropdown - show product dropdown from the cart icon\) and Off-Canvas \(Show product added to cart in an off-canvas sidebar\)
+**Setting Cart**available at **Theme Setting &gt; Cart.**You can change shopping cart icon, add to cart effect on desktop switch between default effect \(Dropdown - show product dropdown from the cart icon\) and Off-Canvas \(Show product added to cart in an off-canvas sidebar\)
 
-You also could change  setting to open order notes on cart page & redirect to shopify cart page when click add to cart function \(Add to cart redirect option\)
+You also could change  setting to open order notes on cart page & redirect to shopify cart page when click add to cart function \(Add to cart redirect option\)
 
 ##### **Mega Navigation**
 
-To install mega navigation please follow the instruction here: [https://arenathemes.freshdesk.com/support/solutions/articles/6000178155-mega-menu-setting-version-1-](https://arenathemes.freshdesk.com/support/solutions/articles/6000178155-mega-menu-setting-version-1-)
+To install mega navigation please follow the instruction here: [https://arenathemes.freshdesk.com/support/solutions/articles/6000178155-mega-menu-setting-version-1-](https://arenathemes.freshdesk.com/support/solutions/articles/6000178155-mega-menu-setting-version-1-)
 
 #### **Bottom**
 
@@ -52,12 +52,5 @@ By default, when you install with install apps, your homepage will be added sect
 
 #### BANNER SECTIONS
 
-  
-
-
-  
-
-
-  
 
 
