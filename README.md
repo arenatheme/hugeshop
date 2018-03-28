@@ -25,6 +25,7 @@ If you're setting up a Shopify store for the first time, we recommend taking a g
 * [x] Go to your Shopify admin dashboard and navigate to Online Store&gt;Themes.
 
 * [x] Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.
+
 * [x] Your new theme will show up below your current theme. 
 * [x] At this point, it is installed, but not published. When you're ready to unveil your new look to the world, click **Publish theme**.
 
@@ -88,9 +89,9 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
 >
 > * key: buy\_with\_2
 >
-> * value: Add your product handle \#2!
+> * value: Add your product handle \#2
 
-1. User Custom Field to import data to the product
+User Custom Field to import data to the product
 
 chenhinh
 
