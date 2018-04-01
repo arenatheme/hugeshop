@@ -70,14 +70,15 @@
    ###### 3.2.1. Products Listing
 
    Display products are selected from the collection in the form of vertical column  
-   ![](/assets/Product Grid - option.png)
-
+   ![](/assets/Product Grid - option.png)  
+  
    **Settings**
 
    * Lazyload: Apply lazyload effect for product image display
    * Layout: Box/Wide
    * Limited products for each collection: the number of products display each column.
 
+  
    **More Settings \(Theme Settings\)**
 
    * Product Review: You may display review below product image and product name
@@ -88,10 +89,10 @@
    ![](/assets/Product Grid - option.png)  
    Product Grid Sections may display product image depend on Type
 
-    * One Horizontal Row:  when you select  **Limited items &gt; Number of items per row** and **Type = Row**  
-   $$(Limited Items : Number of Items per row) <1$$
-    * Grid: when you select **Limited items &gt; Number of items per row **and **Type = Row**
-    * Slide: when you select \*\*Type = Carousel
+   * One Horizontal Row:  when you select  **Limited items &gt; Number of items per row** and **Type = Row**  
+     $$(Limited Items : Number of Items per row) <1$$
+   * Grid: when you select **Limited items &gt; Number of items per row **and **Type = Row**
+   * Slide: when you select \*\*Type = Carousel
 
    **Settings**
 
@@ -104,7 +105,7 @@
 
    ##### 3.2.3. Product Tabs
 
-   Display products are selected from the multi-collection in the form of multi-tab
+   Display products are selected from the multi-collection in the form of multi-tab  
    ![](/assets/Product Tab.png)
 
 4. ### INFORMATION
