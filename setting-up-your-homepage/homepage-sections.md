@@ -51,6 +51,8 @@
    * Link
    * Text Layer Content
 
+   You may add **maximum 6** **slideshow** **content**.
+
 3. #### COLLECTION & PRODUCT
 4. #### INFORMATION
 5. #### ADVANTAGE LAYOUT
