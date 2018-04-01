@@ -1,4 +1,4 @@
-1. ### SEPERATOR
+### 1.SEPERATOR
 
    Seperator Sections are used for the purpose of creating Whitespaces, Heading Titles in the layout.![](/assets/spacing.png)
 
@@ -26,9 +26,10 @@
 
    **Setting depend on Content Components**
 
-2. ### SLIDESHOW
+### 2.SLIDESHOW
 
    Sliders can be used on all kind of websites however they’re most commonly used on business websites or professional portfolio websites. One clear advantage of using a slider is that website owners can place all their important content in a visually appealing and interactive slideshow at the top of the page before their main content. This allows users to quickly see the highlights and take action.  
+   
    **Setting:**
 
    * Full height: **Apply full height of image for slideshow**  
@@ -44,7 +45,7 @@
      * Image
      * Link URL
 
-   **Content: **Add your images for slideshow. Our Slideshow support to display image/video content on slideshow. You may setting following settings bellow
+   **Content:** Add your images for slideshow. Our Slideshow support to display image/video content on slideshow. You may setting following settings bellow
 
    * Image  
    * Video: Go to Settings &gt; Files &gt; click 'Upload files' to upload your video, then copy the url and paste to here to display video in slide
@@ -53,12 +54,12 @@
 
    You may add **maximum 6** **slideshow** **content**.
 
-3. ### COLLECTION & PRODUCT
+### 3.COLLECTION & PRODUCT
 
    #### 3.1. COLLECTION
 
    * Sections starting with the Collection are used to display collections on the website.
-
+   
      * Collection List: Listing Horizontal Image Link to Collection
 
        ![](/assets/Collection List.png)
@@ -114,11 +115,28 @@
 
 Display products are selected from the multi-collection in the form of multi-tab  
    ![](/assets/Product Tab.png)
+**Setting**
 
-1. ### INFORMATION
-2. ### ADVANTAGE LAYOUT
+   * Layout : Box / Wide
+   * Type: Row / Carousel
+   * Padding
+   * Borders
+   * Text Options
 
+**More Settings**[^1]
 
+   * Style Options: Icon, Style, Hover Effect, Add to cart buttons
+   * Product Vendor: Display Product Vendor tag
+   * Color Swatch: Display Color Swatch
+   * Metafields Description Excerpt: c\_f.description\_excerpt: Display Short Desciption Content in Meta Field
+   * Product Review
+   * Label Settings
+   * Quick View Product: display quick view icon when hover
+   * Product Wishlist: display wishlist icon when hover
+   * Product Compare: display compare icon when hover
+
+### 4. INFORMATION
+### 5. ADVANTAGE LAYOUT
 
 [^1]: Some options here may effect to global website: collection page, product page.
 
