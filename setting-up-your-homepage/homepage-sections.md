@@ -39,8 +39,8 @@
    * Auto-play delay time
    * Navigator: Show navigator button in slideshow \(Next Back\)
    * Bullet: show bullet icon
-
-   * Animation
+   * Animation: Slide/Fade/Cube/Coverflow
+ 
 
 3. #### COLLECTION & PRODUCT
 4. #### INFORMATION
