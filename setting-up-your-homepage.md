@@ -6,11 +6,11 @@ Fixed blocks are exactly what you’d guess they are—components that are fixed
 
 #### **Header**
 
-The header is the rectangular area that runs across the top of your store containing your**logo, navigation, currencyconverter**,**account login, and cart, search**. It appears on every page and is intended to be used to promote your company's brand and make it instantly recognizable to your visitors. This is a static block and cannot be repositioned.
+The header is the rectangular area that runs across the top of your store containing your**logo, navigation, currency converter**,**account login, and cart, search**. It appears on every page and is intended to be used to promote your company's brand and make it instantly recognizable to your visitors. This is a static block and cannot be repositioned.
 
 ##### **Logo: **
 
-Your store’s logo provides branding for your site and a clickable link to return to the homepage. You can replace your logo with two type: text or image. which setting at **Theme Setting &gt; Header &gt;Site Logo**
+Your store’s logo provides branding for your site and a clickable link to return to the homepage. You can replace your logo with two type: text or image. which setting at **Theme Setting &gt; Header &gt; Site Logo**
 
 ##### **Search:**
 
@@ -46,11 +46,11 @@ Like a footer on a document or report, a website footer contains the information
 
 ### **Dynamic Homepage Sections**
 
-**HugeShop**homepage sections are dynamic, meaning you can add as many of them as you want and rearrange them in the sidebar to create a completely unique layout. Out of the box, your theme has several dynamic sections enabled already. These are merely suggestions for how you might structure your homepage. Don’t want to include a section? Delete it! \(By clicking on it and clicking Delete section at the bottom.\) Want to include something that isn’t already there? Click Add section and find it on the list.
+**HugeShop **homepage sections are dynamic, meaning you can add as many of them as you want and rearrange them in the sidebar to create a completely unique layout. Out of the box, your theme has several dynamic sections enabled already. These are merely suggestions for how you might structure your homepage. Don’t want to include a section? Delete it! \(By clicking on it and clicking Delete section at the bottom.\) Want to include something that isn’t already there? Click Add section and find it on the list.
 
 By default, when you install with install apps, your homepage will be added sections as our demos. In order to customize with your style please read more detail of each section supported by the theme.
 
-#### BANNER SECTIONS
+
 
 
 
