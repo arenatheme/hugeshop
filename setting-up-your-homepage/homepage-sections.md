@@ -55,13 +55,13 @@
 
 3. #### COLLECTION & PRODUCT
 
-   **3.1. COLLECTION  
-   **Sections starting with the Collection are used to display collections on the website.  
-    ** Collection List: **Listing Verticle Image Link to Collection by **  
-   3.2. PRODUCT  
-    ** Products Listing: **Display products are selected from the collection in the form of vertical.  
-    ** Products Grid  
-    ** Product Tabs
+   **3.1. COLLECTION    
+   * Sections starting with the Collection are used to display collections on the website.  
+    * Collection List: **Listing Verticle Image Link to Collection by **  
+   3.2. PRODUCT    
+    * Products Listing: **Display products are selected from the collection in the form of vertical.    
+    * Products Grid  
+    * Product Tabs
 
 4. #### INFORMATION
 5. #### ADVANTAGE LAYOUT
