@@ -72,12 +72,12 @@
    Display products are selected from the collection in the form of vertical column  
    ![](/assets/Product Grid - option.png)
 
-  **Settings**
+   **Settings**
    * Lazyload: Apply lazyload effect for product image display
    * Layout: Box/Wide
    * Limited products for each collection: the number of products display each column.
  
- **More Settings \(Theme Settings\)**
+   **More Settings \(Theme Settings\)**
    * Product Review: You may display review below product image and product name
 
   ###### 3.2.2. Products Grid
