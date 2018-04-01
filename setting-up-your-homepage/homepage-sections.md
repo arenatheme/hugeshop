@@ -29,7 +29,7 @@
 2. #### SLIDESHOW
 
    Sliders can be used on all kind of websites however they’re most commonly used on business websites or professional portfolio websites. One clear advantage of using a slider is that website owners can place all their important content in a visually appealing and interactive slideshow at the top of the page before their main content. This allows users to quickly see the highlights and take action.  
-   \*\*General Setting SlideShow Section:
+   **Setting:**
 
    * Full height: **Apply full height of image for slideshow**  
    * Layout: **Select slideshow layout stype**  
@@ -40,7 +40,16 @@
    * Navigator: Show navigator button in slideshow \(Next Back\)
    * Bullet: show bullet icon
    * Animation: Slide/Fade/Cube/Coverflow
- 
+   * BLOCK 3 IMAGES ON THE RIGHT: Display 3 verticle images on right side of slideshow
+     * Image
+     * Link URL
+
+   **Content: **Add your images for slideshow. Our Slideshow support to display image/video content on slideshow. You may setting following settings bellow
+
+   * Image  
+   * Video: Go to Settings &gt; Files &gt; click 'Upload files' to upload your video, then copy the url and paste to here
+   * Link
+   * Text Layer Content
 
 3. #### COLLECTION & PRODUCT
 4. #### INFORMATION
