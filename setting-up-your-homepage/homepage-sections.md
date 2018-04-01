@@ -86,17 +86,17 @@
    Product Grid Sections may display product image depend on Type
 
    * One Horizontal Row:  when you select  **Limited items &gt; Number of items per row** and **Type = Row**  
-  $$(Limited Items : Number of Items per row) <1$$
+     $$(Limited Items : Number of Items per row) <1$$
    * Grid: when you select **Limited items &gt; Number of items per row **and **Type = Row**
    * Slide: when you select **Type = Carousel**
 
-  ##### 3.2.3. Product Tabs
+   ##### 3.2.3. Product Tabs
 
-  Display products are selected from the multi-collection in the form of multi-tab  
+   Display products are selected from the multi-collection in the form of multi-tab  
    ![](/assets/Product Tab.png)
 
-1. ### INFORMATION
-2. ### ADVANTAGE LAYOUT
+4. ### INFORMATION
+5. ### ADVANTAGE LAYOUT
 
 
 
