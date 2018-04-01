@@ -59,17 +59,27 @@
 
    * Sections starting with the Collection are used to display collections on the website.  
      * Collection List: Listing Horizontal Image Link to Collection
+       ![](/assets/Collection List.png)
 
    3.2. PRODUCT
 
-   * Products Listing: Display products are selected from the collection in the form of vertical.    
+   * Products Listing: Display products are selected from the collection in the form of vertical.  
      ![](/assets/Product Listing.png)
 
-   * Products Grid  
-   * Product Tabs
+   * Products Grid: Display product images selected by grid \(or horizontal line\)  
+     ![](/assets/Product Grid - option.png)  
+     Product Grid Sections may display product image depend on Type
 
-4. #### INFORMATION
-5. #### ADVANTAGE LAYOUT
+     * One Horizontal Row:  when you select  **Limited items &gt; Number of items per row** and **Type = Row**
+       $$(Limited Items : Number of Items per row) <1$$
+
+     * Grid: when you select **Limited items &gt; Number of items per row **and **Type = Row**
+
+     * Slide: when you select **Type = Carousel** 
+
+4.  * Product Tabs
+5. #### INFORMATION
+6. #### ADVANTAGE LAYOUT
 
 #### 
 
