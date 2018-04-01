@@ -71,7 +71,7 @@
 
    Display products are selected from the collection in the form of vertical column.  
    ![](/assets/Product Grid - option.png)  
-   **Settings**
+    **      Settings**
 
    * Lazyload: Apply lazyload effect for product image display
    * Layout: Box/Wide
