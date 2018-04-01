@@ -55,16 +55,26 @@
 
 3. #### COLLECTION & PRODUCT
 
-   3.1. COLLECTION
+   #### 3.1. COLLECTION
 
    * Sections starting with the Collection are used to display collections on the website.  
+
      * Collection List: Listing Horizontal Image Link to Collection
+
        ![](/assets/Collection List.png)
 
-   3.2. PRODUCT
+   #### 3.2. PRODUCT
+
+   You can add more Product Sections & customize include:
 
    * Products Listing: Display products are selected from the collection in the form of vertical.  
-     ![](/assets/Product Listing.png)
+     ![](/assets/Product Listing.png)  
+     ** Product Listing Settings:
+      * Lazyload: Apply lazyload effect for product image display
+      * Layout: Box/Wide
+      * Limited products for each collection: the number of products display each column.
+     ** Product Listing Theme Settings:  
+      * Product Review: You may display review below product image and product name
 
    * Products Grid: Display product images selected by grid \(or horizontal line\)  
      ![](/assets/Product Grid - option.png)  
@@ -77,7 +87,7 @@
 
      * Slide: when you select **Type = Carousel**
 
-   * Product Tabs: Display products are selected from the multi-collection in the form of **multi-tab    
+   * Product Tabs: Display products are selected from the multi-collection in the form of **multi-tab      
      **![](/assets/Product Tab.png)
 
 4. #### INFORMATION
