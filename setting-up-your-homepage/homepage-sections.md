@@ -69,11 +69,11 @@
 
    * Products Listing: Display products are selected from the collection in the form of vertical.  
      ![](/assets/Product Listing.png)  
-     ** Product Listing Settings:
+     ** Product Listing Settings**:
       * Lazyload: Apply lazyload effect for product image display
       * Layout: Box/Wide
       * Limited products for each collection: the number of products display each column.
-     ** Product Listing Theme Settings:  
+     ** Product Listing Theme Settings**:  
       * Product Review: You may display review below product image and product name
 
    * Products Grid: Display product images selected by grid \(or horizontal line\)  
