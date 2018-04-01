@@ -7,4 +7,5 @@
   * [Homepage Sections](setting-up-your-homepage/homepage-sections.md)
 * [Products and Collections](products-and-collections.md)
 * [Blog & Article](blog-and-article.md)
+* [Glossary of terms](glossary-of-terms.md)
 

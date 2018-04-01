@@ -10,7 +10,7 @@ To set the layout of your product pages go to **Theme Editor &gt; Theme Settings
 
 You may set your product layout at tab:
 
-**- Product: **You could configure your product content at this tab. If you want to display just click to tick this option turn on.
+**- Product: **You could configure your product content at this tab. If you want to display just click to tick this option turn on.
 
 * Vendor tag
 * Product Code \(SKU\)
@@ -19,26 +19,26 @@ You may set your product layout at tab:
 * Use variant images for swatch color
 * Extended Icon: Show icon below the Share social icon
 
-You can config to turn on **COLOR AND SIZE SWATCHES **function. You can read more detail about color & size swatch here: [https://help.shopify.com/themes/customization/products/features/add-color-swatches-using-line-item-properties](https://help.shopify.com/themes/customization/products/features/add-color-swatches-using-line-item-properties)
+You can config to turn on **COLOR AND SIZE SWATCHES **function. You can read more detail about color & size swatch here: [https://help.shopify.com/themes/customization/products/features/add-color-swatches-using-line-item-properties](https://help.shopify.com/themes/customization/products/features/add-color-swatches-using-line-item-properties)
 
-* **Product Sidebar**: Sidebars play an important role in designing the layout of an e-commerce website to display content other than the main of a website. You may config to open sidebar or disable sidebar \(non-sidebar\) and config content to show in the sidebar
+* **Product Sidebar**: Sidebars play an important role in designing the layout of an e-commerce website to display content other than the main of a website. You may config to open sidebar or disable sidebar \(non-sidebar\) and config content to show in the sidebar
 
-* **Product Label:  **Configuration of label **SALE / NEW **show on your product. At notice: Please add product's tag is 'Label New' to make this label visible, and make sure config products compare price to make this label visible.
+* **Product Label:  **Configuration of label **SALE / NEW **show on your product. At notice: Please add product's tag is 'Label New' to make this label visible, and make sure config products compare price to make this label visible.
 
 ### Collection pages
 
-To set the layout of your product pages go to **Theme Editor &gt; Theme Settings.**
+To set the layout of your product pages go to **Theme Editor &gt; Theme Settings.**
 
 You may set your collection layout at tab:
 
-**- Collection: **You could configure your collection content at this tab. If you want to display just click to tick this option turn on
+**- Collection: **You could configure your collection content at this tab. If you want to display just click to tick this option turn on
 
 * Collection's description  & position to show
 * Enable Grid/List/Masonry
 * Enable Sort by
 * Number of Products to show at collection page per row.
 
-The setting of product style show on collection page: 
+The setting of product style show on collection page:
 
 * Text box-align: Position show text
 * Icon
@@ -46,7 +46,7 @@ The setting of product style show on collection page: 
 * Hover effect
 * Add to cart style: button/text
 
-**- Collection Sidebar: **You could configure content collection sidebar. It's important to set up your filter navigation at collection sidebar here. Setting included**Filter by tag / Filter by Group**
+**- Collection Sidebar: **You could configure content collection sidebar. It's important to set up your filter navigation at collection sidebar here. Setting included**Filter by tag / Filter by Group**
 
 * **Filter by tag: Using your product tag as the filter**
 * **Filter by group**
@@ -71,15 +71,5 @@ If you have a lot of products, then you can enable subgroups to help your custom
 4. Save your .csv. file and import the products back into your store. Make sure you check Overwrite existing products that have the same handle when uploading the file to prevent duplicate products from being created.
 5. Save your .csv. file and import the products back into your store. Make sure you check Overwrite existing products that have the same handle when uploading the file to prevent duplicate products from being created.
 
-  
-
-
-  
-
-
-  
-
-
-  
 
 
