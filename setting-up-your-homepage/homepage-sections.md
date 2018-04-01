@@ -93,16 +93,12 @@
    **Setting**
 
    * Layout : Box / Wide
-
    * Type: Row / Carousel
-
    * Padding
-
    * Borders
-
    * Text Options
 
-   **More Settings**
+   **More Settings**[^1]
 
    * Style Options: Icon, Style, Hover Effect, Add to cart buttons
    * Product Vendor: Display Product Vendor tag
@@ -123,4 +119,6 @@ Display products are selected from the multi-collection in the form of multi-tab
 2. ### ADVANTAGE LAYOUT
 
 
+
+[^1]: Some options here may effect to global website: collection page, product page.
 
