@@ -1,4 +1,4 @@
-1. #### SEPERATOR
+1. ### SEPERATOR
 
    Seperator Sections are used for the purpose of creating Whitespaces, Heading Titles in the layout.  
    ![](/assets/spacing.png)  
@@ -26,7 +26,7 @@
 
    **Setting depend on Content Components**
 
-2. #### SLIDESHOW
+2. ### SLIDESHOW
 
    Sliders can be used on all kind of websites however they’re most commonly used on business websites or professional portfolio websites. One clear advantage of using a slider is that website owners can place all their important content in a visually appealing and interactive slideshow at the top of the page before their main content. This allows users to quickly see the highlights and take action.  
    **Setting:**
@@ -53,11 +53,11 @@
 
    You may add **maximum 6** **slideshow** **content**.
 
-3. #### COLLECTION & PRODUCT
+3. ### COLLECTION & PRODUCT
 
    #### 3.1. COLLECTION
 
-   * Sections starting with the Collection are used to display collections on the website.  
+   * Sections starting with the Collection are used to display collections on the website.
 
      * Collection List: Listing Horizontal Image Link to Collection
 
@@ -67,16 +67,21 @@
 
    You can add more Product Sections & customize include:
 
-   * Products Listing: Display products are selected from the collection in the form of vertical.  
-     ![](/assets/Product Listing.png)  
-     ** Product Listing Settings**:
-      * Lazyload: Apply lazyload effect for product image display
-      * Layout: Box/Wide
-      * Limited products for each collection: the number of products display each column.
-     ** Product Listing Theme Settings**:  
-      * Product Review: You may display review below product image and product name
+   ###### 3.2.1. Products Listing  
+   Display products are selected from the collection in the form of vertical
+   
+   **Settings**
 
-   * Products Grid: Display product images selected by grid \(or horizontal line\)  
+     * Lazyload: Apply lazyload effect for product image display
+     * Layout: Box/Wide
+     * Limited products for each collection: the number of products display each column.
+
+  **More Settings (Theme Settings)**
+
+     * Product Review: You may display review below product image and product name
+
+   ###### 3.2.2. Products Grid
+   Display product images selected by grid \(or horizontal line\)  
      ![](/assets/Product Grid - option.png)  
      Product Grid Sections may display product image depend on Type
 
@@ -87,11 +92,12 @@
 
      * Slide: when you select **Type = Carousel**
 
-   * Product Tabs: Display products are selected from the multi-collection in the form of **multi-tab      
+   ##### 3.2.3. Product Tabs
+   Display products are selected from the multi-collection in the form of **multi-tab        
      **![](/assets/Product Tab.png)
 
-4. #### INFORMATION
-5. #### ADVANTAGE LAYOUT
+4. ### INFORMATION
+5. ### ADVANTAGE LAYOUT
 
 #### 
 
