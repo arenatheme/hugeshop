@@ -77,7 +77,7 @@
 
      * Slide: when you select **Type = Carousel**
 
-   * Product Tabs: Display products are selected from the multi-collection in the form of **multi-tab  
+   * Product Tabs: Display products are selected from the multi-collection in the form of **multi-tab    
      **![](/assets/Product Tab.png)
 
 4. #### INFORMATION
