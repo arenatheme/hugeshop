@@ -35,15 +35,15 @@ Please refer to the installation manual at [https://help.shopify.com/manual/apps
 
 Hugeshop support 4 Shopify Apps below:
 
- * Product Reviews: Product Review App made by Shopify. [Get App - Product Reviews](https://apps.shopify.com/product-reviews)
+* Product Reviews: Product Review App made by Shopify. [Get App - Product Reviews](https://apps.shopify.com/product-reviews)
 
- * Free Shipping Bar App [Get App - Free Shipping Bar](https://apps.shopify.com/free-shipping-bar)
+* Free Shipping Bar App [Get App - Free Shipping Bar](https://apps.shopify.com/free-shipping-bar)
 
- * HelpCenter - Build an Attractive FAQs Page [Get App - FAQs Page](https://apps.shopify.com/helpcenter)
+* HelpCenter - Build an Attractive FAQs Page [Get App - FAQs Page](https://apps.shopify.com/helpcenter)
 
- * Instagram Shop by Snapppt [Get App - Instagram shop by Snapppt](https://apps.shopify.com/254e867e771ed335c210d8d84830371a)
+* Instagram Shop by Snapppt [Get App - Instagram shop by Snapppt](https://apps.shopify.com/254e867e771ed335c210d8d84830371a)
 
- * **Install Shopify MetaFields & Custom Fields - Beta**
+* **Install Shopify MetaFields & Custom Fields - Beta**
 
 Shopify does not support input product custom fields in the dashboard, but there are some add-ons for this that you can use to improve product quality. Example: you can have a short description, video embedded, 3d product embed... for each product.  
 One of the extensions you can refer to is the Custom Field Chrome extension made by Jason at [https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln).
