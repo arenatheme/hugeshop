@@ -10,19 +10,44 @@ If you're setting up a Shopify store for the first time, we recommend taking a g
 
 1. Go to [https://install.arenathemes.com](https://install.arenathemes.com/admin/install)
 2. Enter Your Store URL
+   ![](/assets/insert your url.png)
+
 3. Login and install our install apps
+   ![](/assets/install.png)
+
 4. Insert your purchase code. If you don't know how to get it [please get it here](https://arenathemes.freshdesk.com/support/solutions/articles/6000116407-how-to-find-your-themeforest-item-purchase-code )
+   ![](/assets/insert purchase code.png)
 5. Select Installation Menu
+   ![](/assets/Installation menu.png)![](/assets/Install Options.png)Select Options and Click **Install Theme** and waiting to complete
+
+   > PLEASE TAKE CARE YOUR DATA  
+   > 1. Import PRODUCT, BLOG & ARTICLE, COLLECTION, PAGE SAMPLE DATA will require the removal corresponding data from your store to avoid the conflict. IT WILL DELETE DATA & CANNOT RECOVER.
+   >
+   > Please ensure that you have backed up your data or accepted the deletion of this data. 
+   >
+   > 2. To backup Product Data please follow the instruction here [https://help.shopify.com/manual/products/import-export/export-products](https://help.shopify.com/manual/products/import-export/export-products)
+   >
+   > 3. New theme package will Publish
+   >
+   > 4. Don't close browser during installation.
+
 6. [Install Shopify Apps](#install-require-shopify-apps)
+7. Start to Customize your website using [Theme Editor](/chapter1.md).
 
 #### Method 2: Manual Installation
 
 * ##### **Upload your new theme package**
 
   * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like hugeshop.v1.0.0.zip.
-  * Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there.
-  * Go to your Shopify admin dashboard and navigate to Online Store&gt;Themes.
+  * **Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there**
+    ![](/assets/extract.png)If you dont know how to do that you can [refer to this link](https://arenathemes.freshdesk.com/support/solutions/articles/6000177905-how-to-fix-shopify-theme-upload-error-arenathemes)
+
+  * Go to your Shopify admin dashboard and navigate to **Online Store&gt;Themes.**
   * Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.
+    **Only select one package at upload folder from the folder you was extracted.  
+    **![](/assets/folder.png)  
+    ![](/assets/select.png)
+
   * Your new theme will show up below your current theme.
   * At this point, it is installed, but not published. When you're ready to unveil your new look to the world, click **Publish theme**.
 * ##### **Importing and Exporting Product**
