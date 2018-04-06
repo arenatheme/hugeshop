@@ -11,29 +11,33 @@ If you're setting up a Shopify store for the first time, we recommend taking a g
 1. Go to [https://install.arenathemes.com](https://install.arenathemes.com/admin/install)
 2. Enter Your Store URL
 3. Login and install our install apps
-4. Insert your purchase code. If you don't know how to get it please check here: [https://arenathemes.freshdesk.com/support/solutions/articles/6000116407-how-to-find-your-themeforest-item-purchase-code ](https://arenathemes.freshdesk.com/support/solutions/articles/6000116407-how-to-find-your-themeforest-item-purchase-code)
+4. Insert your purchase code. If you don't know how to get it [please get it here](https://arenathemes.freshdesk.com/support/solutions/articles/6000116407-how-to-find-your-themeforest-item-purchase-code )
 5. Select Installation Menu
+6. [Install Shopify Apps](#install-require-shopify-apps)
 
 #### Method 2: Manual Installation
 
-* **Upload your new theme package**
+* ##### **Upload your new theme package**
 
   * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like hugeshop.v1.0.0.zip.
-  * Please extract the zip fileyou downloaded from ThemeForest, then go to "upload" folder and upload any zip file there.
+  * Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there.
   * Go to your Shopify admin dashboard and navigate to Online Store&gt;Themes.
   * Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.
   * Your new theme will show up below your current theme.
   * At this point, it is installed, but not published. When you're ready to unveil your new look to the world, click **Publish theme**.
+* ##### **Importing and Exporting Product**
 
-* **Importing and Exporting Product**
-
-lease read more information about importing and exporting products at [Importing and Exporting Products Guide](https://help.shopify.com/manual/products/import-export). You can find the product demo file at "upload" folder with the name: products\_export\_demo\_sample.csv
+Please read more information about importing and exporting products at [Importing and Exporting Products Guide](https://help.shopify.com/manual/products/import-export). You can find the product demo file at "upload" folder with the name: products\_export\_demo\_sample.csv
 
 * **Install require Shopify Apps**
 
-Please refer to the installation manual at [https://help.shopify.com/manual/apps/working-with-apps\#install-an-app](https://help.shopify.com/manual/apps/working-with-apps#install-an-app)
+##### Please refer to the installation manual at [https://help.shopify.com/manual/apps/working-with-apps\#install-an-app](https://help.shopify.com/manual/apps/working-with-apps#install-an-app)
 
-Hugeshop support 4 Shopify Apps below:
+Hugeshop support 6 Shopify Apps below:
+
+* Arena Wishlist Shopify App - [Click here to Install ](/Click here to Install)
+
+* Arena Compare Shopify App - [Click here to Install](http://compare.arenathemes.com)
 
 * Product Reviews: Product Review App made by Shopify. [Get App - Product Reviews](https://apps.shopify.com/product-reviews)
 
